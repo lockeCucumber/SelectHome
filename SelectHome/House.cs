@@ -12,6 +12,7 @@ namespace SelectHome
 {
     public event PropertyChangedEventHandler PropertyChanged;
     private int num;
+        //asdf
     public int Num
     {
         get
